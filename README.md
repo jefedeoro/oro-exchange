@@ -1,9 +1,3 @@
-## 🔧 Project Diagram
-![Project workflow](https://i.gyazo.com/7328e5390fa92f147077ff5c963abf1b.png)
-
-// Project planned to go live on rinkeby testnet August 2021.
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
